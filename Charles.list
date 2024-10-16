@@ -1,0 +1,17 @@
+DOMAIN,w.t3yanzheng.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN,dl.listdl.com
+DOMAIN,down.anticheatexpert.com
+DOMAIN,prod-lobby.arenabreakout.com
+DOMAIN,glcs.listdl.com
+DOMAIN,nj.cschannel.anticheatexpert.com
+IP-CIDR,101.32.143.0/24,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+IP-CIDR,180.102.211.0/24,no-resolve
+IP-CIDR,180.109.0.0/16,no-resolve
+IP-CIDR,117.89.177.167/32,no-resolve
+IP-CIDR,222.94.109.22/32,no-resolve
+IP-CIDR,36.155.240.19/32,no-resolve
+IP-CIDR,153.3.50.229/32,no-resolve
+IP-CIDR,119.45.69.203/32,no-resolve
+DST-PORT,10012,no-resolve
